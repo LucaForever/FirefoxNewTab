@@ -1,7 +1,7 @@
 # Firefox New Tab
 
 The edited Firefox new tab, you can download it / fork it and add your own edits.
-Best use with https://addons.mozilla.org/en-US/firefox/addon/custom-new-tab-page/ if on Firefox Developer Edition.
+ Best use with https://addons.mozilla.org/en-US/firefox/addon/custom-new-tab-page/ if on Firefox Developer Edition.
 
 
 ```This Source Code Form is subject to the terms of the Mozilla Public
