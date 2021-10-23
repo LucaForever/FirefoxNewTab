@@ -2,6 +2,7 @@
 
 The edited Firefox new tab, you can download it / fork it and add your own edits.\
 Best use with https://addons.mozilla.org/en-US/firefox/addon/custom-new-tab-page/ if on Firefox Developer Edition.\
+[How to use](https://github.com/LucaForever/FirefoxNewTab#how-to-use)
 \
 ![image](https://user-images.githubusercontent.com/58527636/138564142-e5c6071d-fe85-4a7f-8d76-075bbafc0b63.png)
 
