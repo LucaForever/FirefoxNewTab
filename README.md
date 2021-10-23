@@ -25,6 +25,6 @@ Copy the redirect link.
 ![image](https://user-images.githubusercontent.com/58527636/138564301-e85fb280-5a25-4263-84b4-93cc3ee2d264.png)
 
 ### 3. Add your HTML
-![image](https://user-images.githubusercontent.com/58527636/138564630-9d1afbf1-a5db-4b5e-a43c-be197d897561.png)
+![image](https://user-images.githubusercontent.com/58527636/138564630-9d1afbf1-a5db-4b5e-a43c-be197d897561.png)\
 Go to options, add your url and click save.\
 ![image](https://user-images.githubusercontent.com/58527636/138564668-bfdba827-f0f8-4e39-aaf8-5ce440f25aa1.png)
