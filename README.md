@@ -18,7 +18,7 @@ You need to get the link of the raw .html file ([help here](https://newbedev.com
 Go to https://htmlpreview.github.io/, put your raw url and click preview.\
 Copy the redirect link.
 
-### 1. Install ([Custom New Tab Page]https://addons.mozilla.org/en-US/firefox/addon/custom-new-tab-page/)
+### 1. Install [Custom New Tab Page](https://addons.mozilla.org/en-US/firefox/addon/custom-new-tab-page/)
 ![image](https://user-images.githubusercontent.com/58527636/138564265-479f2482-ee78-48c5-9938-8707446aacec.png)
 
 ### 2. Go to Extensions
